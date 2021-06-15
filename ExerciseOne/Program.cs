@@ -27,7 +27,7 @@ namespace ExerciseOne
 
         public static void createPersonal(string Name, string LastName, string Salary)
         {
-            Console.WriteLine("hi" + Name, LastName,Salary);
+            Console.WriteLine("hi" + Name + "" +  LastName + "" + Salary);
             Console.WriteLine("Personal registered");
         }
     }
